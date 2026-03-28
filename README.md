@@ -4,7 +4,7 @@ BI & Data Analyst transitioning into Analytics Engineering.
 I build end-to-end analytics projects — from raw data to 
 actionable insights.
 
-## 🛠 Tech Stack
+##  Tech Stack
 - **SQL** — window functions, CTEs, complex aggregations
 - **Python** — Pandas, NumPy, data cleaning pipelines
 - **Tableau** — LOD expressions, dynamic dashboards (Tableau Certified)
