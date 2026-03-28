@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Mykyta 👋
 
-<!--
-**LoikoM/LoikoM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BI & Data Analyst transitioning into Analytics Engineering.
+I build end-to-end analytics projects — from raw data to 
+actionable insights.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **SQL** — window functions, CTEs, complex aggregations
+- **Python** — Pandas, NumPy, data cleaning pipelines
+- **Tableau** — LOD expressions, dynamic dashboards (Tableau Certified)
+- **Snowflake** — data warehousing
+- **dbt** — data modeling (in progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+
+| Project | Stack | Description |
+|---|---|---|
+| [EU Economic Monitor](https://github.com/LoikoM/EU-Economic-Monitor) | SQL · Tableau | GDP, Inflation, Housing across 27 EU countries |
+| [Retail Customer Segmentation](https://github.com/LoikoM/Retail-Customer-Segmentation-Analysis) | Python · Tableau | Mix Delta analysis, Lifestage × Price Segment matrix |
+| [Global Salary Analysis](https://github.com/LoikoM/salary-analysis-sql) | SQL | CTEs, CASE WHEN, compensation benchmarking |
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mykyta_Loiko-blue)](https://www.linkedin.com/in/mykyta-loiko)
+[![Tableau](https://img.shields.io/badge/Tableau-Public-orange)](https://public.tableau.com/app/profile/mykyta.loiko/vizzes)
