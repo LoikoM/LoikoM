@@ -9,7 +9,7 @@ actionable insights.
 - **Python** — Pandas, NumPy, data cleaning pipelines
 - **Tableau** — LOD expressions, dynamic dashboards (Tableau Certified)
 - **Snowflake** — data warehousing
-- **dbt** — data modeling (in progress)
+- **dbt** — data modeling
 
 ## 📂 Featured Projects
 
